@@ -1,0 +1,2 @@
+# HapMap
+HapMap is a sensory navigation application that makes independent travel more accessible for low-vision individuals. It utilizes a combination of auditory, haptic, and vibration cues to inform users of their route. For example: as the user approaches a turn, the frequency of the haptic feedback increases to indicate their proximity to the turn. This reduces the uncertainty that comes with standard navigation systems that may abruptly give instructions.
