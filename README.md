@@ -9,7 +9,7 @@ HapMap is a sensory navigation application that makes independent travel more ac
 ## Related Files
 [Figma Wireframe](https://www.figma.com/file/aBOhJMR48TNw95Jmrq3YMl/HapMap?node-id=0%3A1) \
 [Spec and Requirements](https://docs.google.com/document/d/1I34HH7h0vPHHwxrdcsIazLe2c-b-zCE0JoaApBoYGJw/edit?usp=sharing) \
-[Trello Board]()
+[Trello Board](https://trello.com/invite/b/SqZ7BMdB/1bc12234fd4251b4506332ddbf8a9e25/hapmap-tasks)
 
 ## Authors and Acknowledgements
 This project was developed as part of the UW CSE 403: Software Engineering course by Emily Chang, Simona Liao, Jesse Hu, Lauren Cavanaughand, Pulkit Malhotra, and Aditya Nayak. Special thanks to Professor René Just and TA Hannah K. Potter for their support and guidance on this project!
